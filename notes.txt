@@ -53,6 +53,8 @@ energy grid.
 form for software developers.
 - The bigger cloud platforms give an overview over where 
 workloads will produce fewer carbon emissions.
+- Data Centres that run on Renewables and reuse their 
+excess heat 
 - Home pages that can be switched to a less resource hungry
 mode
 
